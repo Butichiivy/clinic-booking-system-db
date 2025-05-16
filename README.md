@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-This project is a relational database system designed for a Clinic Booking System, implemented using MySQL. It is developed as part of the Power Learn Project SQL Database Assignment and covers core clinic operations such as patient management, doctor allocation, appointment scheduling, prescription logging, and payment processing.
+This project is a relational database system designed for a **Clinic Booking System**, implemented using **MySQL**. It is developed as part of the **Power Learn Project SQL Database Assignment** and covers core clinic operations such as patient management, doctor allocation, appointment scheduling, prescription logging, and payment processing.
 
 ---
 
@@ -18,20 +18,20 @@ This project is a relational database system designed for a Clinic Booking Syste
 
 ## 🧱 Tech Stack
 
-- Database: MySQL  
-- Development Tools: MySQL Workbench, Visual Studio Code  
-- Diagramming: ERD visualized using database design tools
+- **Database**: MySQL  
+- **Development Tools**: MySQL Workbench, Visual Studio Code  
+- **Diagramming**: ERD visualized using database design tools
 
 ---
 
 ## 🚀 How to Run / Setup
 
-1. Clone or Download this Repository**
+1. **Clone or Download this Repository**
 
-2. Import the Database into MySQL**
+2. **Import the Database into MySQL**
 
    - Launch MySQL Workbench
-   - Go to File → Open SQL Script
+   - Go to **File → Open SQL Script**
    - Select the file: `clinic_system.sql`
    - Run the script to create all tables and relationships
 
@@ -47,7 +47,7 @@ This project is a relational database system designed for a Clinic Booking Syste
 
 ## 🧠 Entity Relationship Diagram (ERD)
 
-![ERD]
+![ERD](./A_diagram_of_a_clinic_booking_system's_database_sc.png)
 
 The ERD shows relationships between core entities: `patients`, `doctors`, `appointments`, `prescriptions`, `rooms`, and `payments`.
 
@@ -55,18 +55,15 @@ The ERD shows relationships between core entities: `patients`, `doctors`, `appoi
 
 ## 📌 Sample Use Cases
 
-- Receptionist schedules a patient's appointment with a doctor.
-- Doctor issues prescriptions for appointments.
-- Administrator assigns doctors to rooms and tracks patient payments.
+- **Receptionist** schedules a patient's appointment with a doctor.
+- **Doctor** issues prescriptions for appointments.
+- **Administrator** assigns doctors to rooms and tracks patient payments.
 
 ---
 
 ## 👨‍💻 Author
 
-Built by Ivy Butichi for the Power Learn Project — SQL & Database Management module.
+Built by **Ivy Butichi** for the **Power Learn Project** — SQL & Database Management module.
 
 ---
 
-
-
-[def]: ./A_diagram_of_a_clinic_booking_system's_database_sc.png
