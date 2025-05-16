@@ -49,7 +49,7 @@ This project is a relational database system designed for a **Clinic Booking Sys
 
 This ERD outlines the relationships between patients, doctors, appointments, prescriptions, rooms, and payments.
 
-![Clinic Booking System ERD](./clinic-erd.png)
+c:\Users\IVY\Downloads\clinic_erd.png.png
 
 ---
 
