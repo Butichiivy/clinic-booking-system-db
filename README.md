@@ -45,11 +45,11 @@ This project is a relational database system designed for a **Clinic Booking Sys
 
 ---
 
-## 🧠 Entity Relationship Diagram (ERD)
+## 📊 Entity Relationship Diagram (ERD)
 
-![ERD](./A_diagram_of_a_clinic_booking_system's_database_sc.png)
+This ERD outlines the relationships between patients, doctors, appointments, prescriptions, rooms, and payments.
 
-The ERD shows relationships between core entities: `patients`, `doctors`, `appointments`, `prescriptions`, `rooms`, and `payments`.
+![Clinic Booking System ERD](./clinic-erd.png)
 
 ---
 
