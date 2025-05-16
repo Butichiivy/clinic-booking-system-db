@@ -49,7 +49,7 @@ This project is a relational database system designed for a **Clinic Booking Sys
 
 This ERD outlines the relationships between patients, doctors, appointments, prescriptions, rooms, and payments.
 
-c:\Users\IVY\Downloads\clinic_erd.png.png
+![alt text](clinic_erd.png-1.png)
 
 ---
 
@@ -67,3 +67,6 @@ Built by **Ivy Butichi** for the **Power Learn Project** — SQL & Database Mana
 
 ---
 
+
+
+[def]: clinic_erd.png.png
